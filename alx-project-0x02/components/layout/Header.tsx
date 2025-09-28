@@ -7,7 +7,7 @@ export default function Header() {
         <h1 className="text-xl font-bold">ALX Project 2</h1>
         <ul className="flex space-x-6">
           <li>
-            <Link href="/" className="hover:underline">
+            <Link href="/home" className="hover:underline">
               Home
             </Link>
           </li>
